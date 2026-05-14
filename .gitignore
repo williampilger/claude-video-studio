@@ -1,6 +1,8 @@
 # Arquivos de trabalho — não versionar
-input/
-output/
+input/*
+!input/README.md
+output/*
+!output/README.md
 
 # Arquivos de vídeo/áudio soltos na raiz
 *.mp4
