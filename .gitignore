@@ -3,6 +3,8 @@ input/*
 !input/README.md
 output/*
 !output/README.md
+scripts/*
+!scripts/README.md
 
 # Arquivos de vídeo/áudio soltos na raiz
 *.mp4

@@ -19,7 +19,8 @@
       "Bash(mediainfo:*)",
       "Bash(convert:*)",
       "Bash(identify:*)",
-      "Bash(exiftool:*)"
+      "Bash(exiftool:*)",
+      "Bash(pip show *)"
     ],
     "deny": []
   }
