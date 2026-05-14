@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ffmpeg:*)",
+      "Bash(ffprobe:*)",
+      "Bash(ls:*)",
+      "Bash(find:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)",
+      "Bash(mv:*)",
+      "Bash(rm:*)",
+      "Bash(python3:*)",
+      "Bash(python:*)",
+      "Bash(cat:*)",
+      "Bash(echo:*)",
+      "Bash(du:*)",
+      "Bash(file:*)",
+      "Bash(stat:*)",
+      "Bash(mediainfo:*)",
+      "Bash(convert:*)",
+      "Bash(identify:*)",
+      "Bash(exiftool:*)"
+    ],
+    "deny": []
+  }
+}
